@@ -5,6 +5,9 @@ import traceback
 import datetime
 import os.path
 
+#***************************************
+# Author: Sudarsanan B S
+#***************************************
 try:
     logging.basicConfig(filename='\PATH\TO\post_to_fb.log', level=logging.INFO)
 
