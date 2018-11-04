@@ -5,6 +5,6 @@ Fetch the reactions to a post on one's page in a simple way-
 
 Share count: 4
 
-Like count : 37
+Like count: 37
 
-Love count : 12
+Love count: 12
